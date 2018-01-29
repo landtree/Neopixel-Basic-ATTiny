@@ -32,20 +32,5 @@ for(int i = 0;i<NUMPIXELS;i++){
   delay(35);
 }
 delay(300000);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 }
